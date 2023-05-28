@@ -36,6 +36,14 @@ body{
     margin-top: 30px;
 }
 
+.clipboard{
+    text-align: center;
+}
+
+.clipboard__Paragrafo{
+    text-align: center;
+}
+
 .btn-ios{
     margin-right: 40px;
     text-decoration: none;
